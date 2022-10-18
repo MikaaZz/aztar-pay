@@ -37,7 +37,7 @@ Aztarpay is a component that simulates a credit card form, where you can add mas
 
 ## 🔖 Layout
 
-You can view the project layout through [DESSE LINK](https://www.figma.com/file/gpqavL469k0pPUGOmAQEM9/Explorer-Lab-%2301/duplicate). You must have an account with [Figma](https://figma.com) to access it.
+You can view the project layout through [THIS LINK](https://www.figma.com/file/biIFcdl7MHrgR4q8BXzieG/Aztar-Pay?node-id=0%3A1). You must have an account with [Figma](https://figma.com) to access it.
 
 ## :memo: License
 
